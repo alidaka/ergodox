@@ -1,10 +1,12 @@
 # ergodox
-My Ergodox configurations
+My Ergodox configurations and some notes on how to use them.
 
 ## Original
-### Configurator:
+
+#### Configurator:
 https://keyboard-configurator.massdrop.com/ext/ergodox
-### Firmware loader
+
+#### Firmware loader
 * http://www.pjrc.com/teensy/loader_linux.html
 * Run `teensy`
 * Drag/drop .hex file
@@ -12,10 +14,13 @@ https://keyboard-configurator.massdrop.com/ext/ergodox
 * Press Teensy button on keyboard
 
 ## Infinity
-### Configurator
+
+#### Configurator
 http://input.club/configurator-ergodox
-### Firmware loader
+
+#### Firmware loader
 * Run `sudo apt-get install dfu-util`
-* Run `dfu-util -D <.dfu.bin>
-### TODO
+* Run `dfu-util -D <.dfu.bin>`
+
+#### TODO
 Currently clone of original. Would probably be fun to add some LCD manipulation.
