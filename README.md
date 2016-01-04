@@ -1,0 +1,2 @@
+# ergodox
+My Ergodox configurations
